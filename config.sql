@@ -31,4 +31,4 @@ CREATE TABLE `usuarios` (
   PRIMARY KEY (`id`)
 );
 
-INSERT INTO `usuarios` VALUES (1,'admin','admin'),(2,'mateus','12345'),(3,'pitura','qwert');
+INSERT INTO `usuarios` VALUES (1,'admin','admin'),(2,'Julyanna','12345'),(3,'pitura','qwert');
